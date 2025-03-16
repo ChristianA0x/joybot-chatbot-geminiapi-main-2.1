@@ -1,1 +1,1 @@
-# joybot-chatbot-geminiapi-main-2.1
+# joybot-chatbot-geminiapi
